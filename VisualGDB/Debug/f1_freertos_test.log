@@ -1,0 +1,33 @@
+﻿  CL_delay.c
+  CL_printMsg.c
+  CL_systemClockUpdate.c
+  f1_freertos_test.c
+  list.c
+  port.c
+  heap_1.c
+  queue.c
+  stream_buffer.c
+  tasks.c
+  timers.c
+  system_stm32f1xx.c
+  startup_stm32f103xb.c
+  stm32f1xx_ll_adc.c
+  stm32f1xx_ll_crc.c
+  stm32f1xx_ll_dac.c
+  stm32f1xx_ll_dma.c
+  stm32f1xx_ll_exti.c
+  stm32f1xx_ll_fsmc.c
+  stm32f1xx_ll_gpio.c
+  stm32f1xx_ll_i2c.c
+  stm32f1xx_ll_pwr.c
+  stm32f1xx_ll_rcc.c
+  stm32f1xx_ll_rtc.c
+  stm32f1xx_ll_sdmmc.c
+  stm32f1xx_ll_spi.c
+  stm32f1xx_ll_tim.c
+  stm32f1xx_ll_usart.c
+  stm32f1xx_ll_utils.c
+  Linking VisualGDB/Debug/f1_freertos_test...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 8560 bytes out of 64KB (13%)
+  Used SRAM: 17KB out of 20KB (87%)
